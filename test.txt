@@ -1,0 +1,8 @@
+Asset:CD96 MPC Robustness
+Dataset:AR23-019_067
+IDBS:E45000
+Author:Zach Hatzenbeller
+Github:www.github.com/gsk-tech/state-space-model
+States:IGG, VCC, Lactate, Osmo
+Inputs:Cumulative_Normalized_Feed, Temperature, pH_setpoint, DO
+scaler_type:MinMaxScaler
